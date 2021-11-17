@@ -1,0 +1,1 @@
+{"version":3,"file":"card.d.ts","sourceRoot":"ng://@sgu/ng-semantic/","sources":["lib/card/card.ts"],"names":[],"mappings":";AAEA;;;;GAIG;AACH,qBAsBa,qBAAqB;IACvB,KAAK,EAAE,MAAM,CAAC;IACd,KAAK,EAAE,MAAM,CAAC;iCAFZ,qBAAqB;2CAArB,qBAAqB;CAGjC;AAED;;;;GAIG;AACH,qBAKa,sBAAsB;IACxB,KAAK,EAAE,MAAM,CAAC;iCADZ,sBAAsB;2CAAtB,sBAAsB;CAElC"}

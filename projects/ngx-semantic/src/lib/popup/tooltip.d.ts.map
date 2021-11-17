@@ -1,0 +1,1 @@
+{"version":3,"file":"tooltip.d.ts","sourceRoot":"ng://@sgu/ng-semantic/","sources":["lib/popup/tooltip.ts"],"names":[],"mappings":"AAAA,OAAO,EAAa,gBAAgB,EAAS,MAAM,EAAE,MAAM,eAAe,CAAC;;AAI3E;;;;GAIG;AACH,qBAGa,kBAAmB,YAAW,MAAM;IAK5B,OAAO,EAAE,gBAAgB;IAHnC,YAAY,EAAE,MAAM,CAAC;IACrB,aAAa,EAAE,MAAM,CAAC;gBAEZ,OAAO,EAAE,gBAAgB;IAG5C,QAAQ,IAAI,IAAI;iCARL,kBAAkB;2CAAlB,kBAAkB;CAY9B"}

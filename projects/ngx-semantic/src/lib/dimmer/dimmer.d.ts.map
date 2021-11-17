@@ -1,0 +1,1 @@
+{"version":3,"file":"dimmer.d.ts","sourceRoot":"ng://@sgu/ng-semantic/","sources":["lib/dimmer/dimmer.ts"],"names":[],"mappings":"AAAA,OAAO,EAAiD,UAAU,EAAE,MAAM,eAAe,CAAC;;AAI1F,qBASa,uBAAuB;IACI,MAAM,EAAE,UAAU,CAAC;IAEzD;;OAEG;IACH,IAAI,CAAC,OAAO,CAAC,EAAE,EAAE;iCANN,uBAAuB;2CAAvB,uBAAuB;CAWnC"}

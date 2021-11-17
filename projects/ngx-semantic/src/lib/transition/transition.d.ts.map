@@ -1,0 +1,1 @@
+{"version":3,"file":"transition.d.ts","sourceRoot":"ng://@sgu/ng-semantic/","sources":["lib/transition/transition.ts"],"names":[],"mappings":"AAAA,OAAO,EAAiD,UAAU,EAAS,MAAM,eAAe,CAAC;;AAIjG,qBASa,2BAA2B;IACI,UAAU,EAAE,UAAU,CAAC;IAEjE;;;OAGG;IACH,IAAI,CAAC,SAAS,CAAC,EAAE,MAAM;iCAPZ,2BAA2B;2CAA3B,2BAA2B;CAYvC"}

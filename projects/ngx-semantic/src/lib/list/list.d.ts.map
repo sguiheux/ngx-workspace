@@ -1,0 +1,1 @@
+{"version":3,"file":"list.d.ts","sourceRoot":"ng://@sgu/ng-semantic/","sources":["lib/list/list.ts"],"names":[],"mappings":"AAAA,OAAO,EAAwD,UAAU,EAAE,aAAa,EAAE,MAAM,eAAe,CAAC;;AAEhH;;;;GAIG;AACH,qBASa,qBAAsB,YAAW,aAAa;IAChD,KAAK,EAAE,MAAM,CAAC;IACqB,YAAY,EAAE,UAAU,CAAC;IAErE,eAAe;iCAJJ,qBAAqB;2CAArB,qBAAqB;CAUjC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"item.d.ts","sourceRoot":"ng://@sgu/ng-semantic/","sources":["lib/item/item.ts"],"names":[],"mappings":"AAAA,OAAO,EAA6C,aAAa,EAAa,UAAU,EAAE,MAAM,eAAe,CAAC;;AAEhH;;;;GAIG;AACH,qBAYa,qBAAsB,YAAW,aAAa;IAChD,IAAI,EAAE,MAAM,CAAC;IACb,MAAM,EAAE,MAAM,CAAC;IACf,KAAK,EAAE,MAAM,CAAC;IAEyB,gBAAgB,EAAE,UAAU,CAAC;IAE7E,eAAe;iCAPJ,qBAAqB;2CAArB,qBAAqB;CAUjC"}

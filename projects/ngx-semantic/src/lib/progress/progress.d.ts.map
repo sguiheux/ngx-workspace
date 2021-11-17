@@ -1,0 +1,1 @@
+{"version":3,"file":"progress.d.ts","sourceRoot":"ng://@sgu/ng-semantic/","sources":["lib/progress/progress.ts"],"names":[],"mappings":";AAEA,qBAUa,yBAAyB;IAC3B,KAAK,EAAE,MAAM,CAAC;IACd,KAAK,EAAE,MAAM,CAAC;IAEvB,SAAS,SAAK;IAEd,IACI,QAAQ,CAAC,KAAK,EAAE,MAAM,EAEzB;iCATU,yBAAyB;2CAAzB,yBAAyB;CAUrC"}

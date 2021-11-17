@@ -1,0 +1,8 @@
+{
+  "name": "@sgu/ng-semantic",
+  "version": "1.1.18",
+  "peerDependencies": {
+    "@angular/common": "11.0.4",
+    "@angular/core": "11.0.4"
+  }
+}
