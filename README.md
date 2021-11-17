@@ -1,3 +1,7 @@
+# FORK
+
+This is a fork from https://github.com/vladotesanovic/ngSemantic
+
 # NgxWorkspace
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.15.
